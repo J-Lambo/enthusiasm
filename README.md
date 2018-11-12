@@ -7,7 +7,7 @@ Based on https://github.com/arnau/Vigor
 Clone the repository:
 
 ```sh
-git clone git://github.com/bahmady/enthusiasm.git ~/.vim
+git clone git://github.com/<YOU>/enthusiasm.git ~/.vim
 cd ~/.vim
 make install
 ```
