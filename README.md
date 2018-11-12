@@ -1,3 +1,9 @@
+# Vim customisation for macOS
+
+Based on https://github.com/arnau/Vigor
+
+## Install
+
 Clone the repository:
 
 ```sh
